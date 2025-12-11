@@ -1,4 +1,4 @@
-# AWS-Devops-Project--Week2Day1
-Week2 Day1 
+# AWS-Devops-Project
+
 Project
 ..
